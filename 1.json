@@ -1,0 +1,9 @@
+{
+  "name": "FarGEAR MiniApp NFT",
+  "description": "Official FarGEAR NFT Collection — all tokens share this legendary fish image.",
+  "image": "https://i.ibb.co/mrVfjwVh/fish.jpg",
+  "attributes": [
+    { "trait_type": "Edition", "value": "1 of 9999" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
